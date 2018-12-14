@@ -18,8 +18,7 @@
 	else{
 		out.print("失败..");
 	}
-	//你好！
-	//hh
+	//say something
 %>
 </body>
 </html>
