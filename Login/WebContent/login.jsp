@@ -10,7 +10,7 @@
 
 <form action="check.jsp" method="post" >
 用户名 hhh：<input type="text" name="uname"><br/>
-密码：<input type="password" name="upwd"><br/>
+输入密码：<input type="password" name="upwd"><br/>
 <input type="submit" value="登录"><br>
 </form>
 </body>
