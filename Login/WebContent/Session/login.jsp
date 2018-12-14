@@ -11,7 +11,7 @@
 %>
 <form action="check.jsp" method="post" >
 输入用户名：<input type="text" name="uname"><br/>
-密码：<input type="password" name="upwd"><br/>
+输入密码：<input type="password" name="upwd"><br/>
 <input type="submit" value="登录"><br>
 </form>
 </body>
