@@ -19,6 +19,7 @@
 		out.print("失败..");
 	}
 	//say something
+//weiwei
 %>
 </body>
 </html>
