@@ -16,7 +16,7 @@
 		request.getRequestDispatcher("success.jsp").forward(request, response);
 	}
 	else{
-		out.print("失败");
+		out.print("失败!");
 	}
 %>
 </body>
